@@ -1,0 +1,11 @@
+{
+  "description": "Photography",
+  "repo": "https://github.com/D0UT",
+  "owner": {
+    "username": "D0UT",
+    "email": "zezmcja4@duck.com",
+  },
+  "record": {
+    "CNAME": "d0ut.github.io"
+  }
+}
